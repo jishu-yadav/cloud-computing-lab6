@@ -13,7 +13,7 @@ const db = mysql.createConnection({
   port: "3306",
   user: "admin",
   password: "321Jishu",
-  database: "test4",
+  database: "TESTDB4",
 
   // multipleStatements: true,
 });
